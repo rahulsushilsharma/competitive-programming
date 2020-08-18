@@ -1,0 +1,5 @@
+running
+9 7 6 5 
+0 9 9 
+
+time taken : 0.001 secs
